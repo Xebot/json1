@@ -1,0 +1,7 @@
+{
+  "info": [
+    { "id": 1, "LOG": "log1", "PASS": "pass1", "ACTION": "Price_agreement_completed1", "XML_ID": "ec3efe3a-e242-11ec-8165-0090fa2cb93e", "VALUE": 1, "MESSAGE": "02.06.2022 11:00:10: (Админ) ц\n" },
+    { "id": 2, "LOG": "log2", "PASS": "pass2", "ACTION": "Price_agreement_completed2", "XML_ID": "ec3efe3a-e242-11ec-8165-0090fa2cb93e", "VALUE": 2, "MESSAGE": "02.06.2022 11:00:10: (Админ) ц\n" }
+  ]
+  "profile": { "name": "typicode" }
+}
